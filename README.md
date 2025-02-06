@@ -11,7 +11,7 @@
 
 <h2>📺 Video Showcase</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=cnqVXJ9i11E)
+- [Weapon Video Showcase-3D modeling and Editing ](https://www.youtube.com/watch?v=cnqVXJ9i11E)
 
 <h2> 🤳 Connect with me:</h2>
 
