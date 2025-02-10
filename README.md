@@ -3,16 +3,22 @@
 <h2>👨‍💻 AR VR & ML Academic Projects:</h2>
 
 - <b>Virtual Reality (VR)</b>
-  - [La Detente En Mer - VR ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
+  - [La Detente En Mer ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
+  - [Weapon Exploration Game Demo ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
 - <b>Augmented Reality (AR)</b>
   - [AR Face Filter ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
 - <b>Machine Learning (ML)</b>
   - [Linear regression - ML ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Potentially NSFW)</b></i>
   - [Logistic regression - ML ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Potentially NSFW)</b></i>
+- <b>3D Modeling (Blender)</b>
+  - [The lamp - Blender ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Render and Light)</b></i>
+  - [Character X Movement - Blender ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Animation)</b></i>
+  - [Character X - Blender ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Modeling)</b></i>
 
 <h2>📺 Video Showcase</h2>
 
 - [Weapon Video Showcase-3D modeling and Editing(Blender & PP) ](https://www.youtube.com/watch?v=cnqVXJ9i11E)
+- [Premiere Pro Edit ) ](https://www.youtube.com/watch?v=cnqVXJ9i11E)
 
 <h2> 🤳 Connect with me:</h2>
 
