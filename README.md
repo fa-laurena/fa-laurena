@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 AR VR & ML Academic Projects:</h2>
 
-- <b> AR Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>VR Practice (AlgoExpert)</b>
   - [La Detente En Mer - VR ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
-- <b> ML Practice</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>    
+- <b>VR Practice (AlgoExpert)</b>
+  - [La Detente En Mer - VR ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
+- <b>VR Practice (AlgoExpert)</b>
+  - [La Detente En Mer - VR ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Potentially NSFW)</b></i>    
 
 <h2>📺 Video Showcase</h2>
 
