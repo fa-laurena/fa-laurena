@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 AR VR & ML Academic Projects:</h2>
 
-- <b>Virtual Reality (AlgoExpert)</b>
+- <b>Virtual Reality (VR)</b>
   - [La Detente En Mer - VR ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
-- <b>Augmented Reality (AlgoExpert)</b>
+- <b>Augmented Reality (AR)</b>
   - [La Detente En Mer - VR ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
-- <b>Machine Learning (AlgoExpert)</b>
+- <b>Machine Learning (ML)</b>
   - [Linear regression - ML ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Potentially NSFW)</b></i>
   - [Logistic regression - ML ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Potentially NSFW)</b></i>
 
