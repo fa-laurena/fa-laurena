@@ -8,7 +8,7 @@
 - <b>Augmented Reality (AR)</b>
   - [AR Face Filter ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
 - <b>Machine Learning (ML)</b>
-  - [Linear regression - ML ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) 
+  - [Linear regression - ML ](https://github.com/fa-laurena/LinearRegressionML) 
   - [Logistic regression - ML ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) 
 - <b>3D Modeling (Blender)</b>
   - [The lamp - Blender ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Render and Light)</b></i>
