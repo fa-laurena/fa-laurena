@@ -6,7 +6,7 @@
   - [La Detente En Mer ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
   - [Weapon Exploration Game Demo ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
 - <b>Augmented Reality (AR)</b>
-  - [AR Face Filter ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
+  - [AR Face Filter ](https://github.com/fa-laurena/AR-Face-Filter/tree/main)
 - <b>Machine Learning (ML)</b>
   - [Linear regression - ML ](https://github.com/fa-laurena/LinearRegressionML) 
   - [Logistic regression - ML ](https://github.com/fa-laurena/Logistic-Regression-ML) 
