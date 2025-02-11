@@ -4,7 +4,7 @@
 
 - <b>Virtual Reality (VR)</b>
   - [La Detente En Mer ](https://github.com/fa-laurena/Detente-En-Mer/tree/main)
-  - [Weapon Exploration Game Demo ](https://github.com/fa-laurena/VRDetenteRoom/tree/main)
+  - [Weapon Exploration Game Demo ](https://github.com/fa-laurena/Weapon-Exploration-Demo)
 - <b>Augmented Reality (AR)</b>
   - [AR Face Filter ](https://github.com/fa-laurena/AR-Face-Filter/tree/main)
 - <b>Machine Learning (ML)</b>
