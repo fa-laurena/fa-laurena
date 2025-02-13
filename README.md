@@ -3,7 +3,7 @@
 <h2>👨‍💻 AR VR & ML Academic Projects:</h2>
 
 - <b>Virtual Reality (VR)</b>
-  - [La Detente En Mer](https://github.com/fa-laurena/Detente-En-Mer)<b><i>(add youtube video link) </b></i>
+  - [La Detente En Mer](https://github.com/fa-laurena/Detente-En-Mer)
   - [Weapon Exploration Game Prototype ](https://github.com/fa-laurena/Weapon-Exploration-Demo)
 - <b>Augmented Reality (AR)</b>
   - [AR Face Filter ](https://github.com/fa-laurena/AR-Face-Filter/tree/main)
