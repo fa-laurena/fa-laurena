@@ -11,7 +11,7 @@
   - [Linear regression - ML ](https://github.com/fa-laurena/LinearRegressionML) 
   - [Logistic regression - ML ](https://github.com/fa-laurena/Logistic-Regression-ML) 
 
-<h2>📺 Video Showcase</h2>
+<h2>📺Other projects - Video Showcase</h2>
 
 - [Weapon Video Showcase-3D modeling and Editing(Blender & PP) ](https://www.youtube.com/watch?v=cnqVXJ9i11E)
 - [Weapon showcase - Blender to Premiere Pro Edit  ](https://www.youtube.com/watch?v=cnqVXJ9i11E)
