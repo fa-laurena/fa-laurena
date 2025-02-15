@@ -14,7 +14,7 @@
 <h2>📺Other projects - Video Showcase</h2>
 
 - [Weapon Video Showcase-3D modeling and Editing(Blender & PP) ](https://www.youtube.com/watch?v=cnqVXJ9i11E)
-- [Weapon showcase - Blender to Premiere Pro Edit  ](https://www.youtube.com/watch?v=cnqVXJ9i11E)
+- [2D Space Invader - Unity - UI - Sprites  ](https://youtu.be/0RhAdtUfRnM)
 
 <h2> 🤳 Connect with me:</h2>
 
