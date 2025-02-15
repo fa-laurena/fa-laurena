@@ -10,10 +10,6 @@
 - <b>Machine Learning (ML)</b>
   - [Linear regression - ML ](https://github.com/fa-laurena/LinearRegressionML) 
   - [Logistic regression - ML ](https://github.com/fa-laurena/Logistic-Regression-ML) 
-- <b>3D Modeling (Blender)**maybe, still to create reprository for all</b>
-  - [The lamp - Blender ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Render and Light)</b></i>
-  - [Character X Movement - Blender ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Animation)</b></i>
-  - [Character X - Blender ](https://github.com/fa-laurena/VRDetenteRoom/tree/main) <b><i>(Modeling)</b></i>
 
 <h2>📺 Video Showcase</h2>
 
